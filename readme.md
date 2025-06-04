@@ -21,7 +21,7 @@
 If you find my work helpful, consider buying me a coffee!
 
 <p align="left">
-  <a href="[buymeacoffee.com/sainaadotnett](https://buymeacoffee.com/sainaadotnett)" target="_blank">
+  <a href="buymeacoffee.com/sainaadotnett" target="_blank">
     <img 
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
       alt="Buy Me A Coffee" 
