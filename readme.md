@@ -64,10 +64,10 @@ If you find my work helpful, consider buying me a coffee!
 
 | Project | Description |
 |--------|-------------|
-| [🌐 Kittokatsu.pro](https://kittokatsu.pro) | JLPT N1/N2 vocabulary learning for Mongolian speakers |
+<!--- | [🌐 Kittokatsu.pro](https://kittokatsu.pro) | JLPT N1/N2 vocabulary learning for Mongolian speakers |
 | [🧠 Coding Platform](https://hellobraincode.com) | Online coding platform for Mongolians in Japan |
 | [🏗 Dynamic Homepage](https://baljir0901.github.io/homies-website/) | Construction company homepage built with React |
-
+--> 
 ---
 
 ## 📈 GitHub Stats
