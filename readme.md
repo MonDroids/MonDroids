@@ -8,11 +8,11 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Automation Engineer & SEO engineer 🇲🇳  
+- 💼 Full-Stack Developer & SEO engineer 🇲🇳  
 - 💡 Award-winning startup founder (2x local competition champion)
 - 🌱 Studying Flutter, Dart/Astro/React/Next.js  
 - 🌐 Building a Quizz app for Mongolian Doctors  
-- 🎓 Mining Automation Engineer + Full-Stack Developer  
+- 🎓 Mining Automation Engineer
 
 ---
 
