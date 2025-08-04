@@ -40,6 +40,7 @@ If you find my work helpful, consider buying me a coffee!
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![AstroJS](https://img.shields.io/badge/AstroJS-Static%20Site%20Builder-ff5a1f?style=for-the-badge&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer)
 ![Shadcn/UI](https://img.shields.io/badge/Shadcn%2FUI-Component%20Library-ef4444?style=for-the-badge)
