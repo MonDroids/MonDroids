@@ -66,7 +66,6 @@ If you find my work helpful, consider buying me a coffee!
 
 | Project | Description |
 |--------|-------------|
-
 ---
 
 ## 📈 GitHub Stats
